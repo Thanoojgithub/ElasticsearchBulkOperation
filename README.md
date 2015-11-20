@@ -2,7 +2,7 @@
 Elasticsearch Bulk Operation
 
 
-configuration
+#configuration - elasticsearch.yml
 
 cluster.name: stackoverflowcluster
 
